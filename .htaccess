@@ -1,0 +1,8 @@
+<files dailyRaport.php> 
+Order deny,allow 
+deny from all 
+</files> 
+<files nowyIndex.php> 
+Order deny,allow 
+deny from all 
+</files> 
