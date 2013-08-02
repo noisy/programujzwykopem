@@ -1,2 +1,5 @@
 /nbproject/
 /cgi-bin/
+*.pyc
+*.db
+.idea
